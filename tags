@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Trace	main.cpp	7;"	d	file:
+assign	main.cpp	/^void assign(){$/;"	f
+fc	main.cpp	/^int fc[10];$/;"	v
+init	main.cpp	/^void init(){$/;"	f
+l	main.cpp	/^int l;$/;"	v
+main	main.cpp	/^int main(){$/;"	f
+name	main.cpp	/^char name[10][50];$/;"	v
+range	main.cpp	/^int range(int min,int max){$/;"	f
+setp	main.cpp	12;"	d	file:
+sfc	main.cpp	/^int sfc[10];$/;"	v
+verify	main.cpp	/^bool verify(){$/;"	f
+x	main.cpp	/^vector<int>x;$/;"	v
